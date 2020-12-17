@@ -7,7 +7,7 @@ export default class ProfileImg extends React.Component {
     constructor(props){
       super(props);
       this.state={
-        avatar : {uri: 'https://listenchat1.firebaseapp.com/img/avatarDefault.png'}
+        avatar : {uri: 'https://xxx.firebaseapp.com/img/avatarDefault.png'}
       }
     }
     
